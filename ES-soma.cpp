@@ -3,7 +3,8 @@
 using namespace std;
 
 	
-	int main(){
+	int main()
+{
 		   
 		   int A, B;
 		   int x;
